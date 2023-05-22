@@ -7,6 +7,7 @@ Python functions to download favicons using internal google api
 Install function by running the following command.
 <br>
 **NOTE** Once pip comes back online
+**UPDATE** Pip came back online, can now install using pip
 
 ```bash
   pip install favicon-grabber
