@@ -5,9 +5,6 @@ Python functions to download favicons using internal google api
 ## Installation
 
 Install function by running the following command.
-<br>
-**NOTE** Once pip comes back online
-**UPDATE** Pip came back online, can now install using pip
 
 ```bash
   pip install favicon-grabber
@@ -25,6 +22,8 @@ download_favicon("google.com", size=128)
 websites = ["google.com", "stackoverflow.com", "github.com"]
 download_favicons(websites, path="my/path/favicons")
 ```
+
+NOTE: The file is saved to a directory under the name *website.com*.png
 
 ## Acknowledgements
 - [aanupam23](https://github.com/aanupam23/FaviconGrabber/tree/main)

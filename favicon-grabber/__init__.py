@@ -1,1 +1,0 @@
-from grabber import download_favicon, download_favicons
